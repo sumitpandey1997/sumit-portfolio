@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7ae0ed930f8c7577a81aead371b5807",
+    "revision": "0475d03fe32609588abd6a7dc3aa307f",
     "url": "/sumit-portfolio/index.html"
   },
   {
-    "revision": "d8ad2f2937599c15e461",
+    "revision": "b27916cf0ffead0d0ccf",
     "url": "/sumit-portfolio/static/css/2.d2ca2446.chunk.css"
   },
   {
-    "revision": "44c741bf6f51258ddca6",
+    "revision": "e327599ef3dabf4cf158",
     "url": "/sumit-portfolio/static/css/main.c825a9a1.chunk.css"
   },
   {
-    "revision": "d8ad2f2937599c15e461",
-    "url": "/sumit-portfolio/static/js/2.fd52966d.chunk.js"
+    "revision": "b27916cf0ffead0d0ccf",
+    "url": "/sumit-portfolio/static/js/2.b0e438a9.chunk.js"
   },
   {
-    "revision": "44c741bf6f51258ddca6",
-    "url": "/sumit-portfolio/static/js/main.587abc5d.chunk.js"
+    "revision": "e327599ef3dabf4cf158",
+    "url": "/sumit-portfolio/static/js/main.6ac0af49.chunk.js"
   },
   {
     "revision": "4826e348b6b2869abc50",
