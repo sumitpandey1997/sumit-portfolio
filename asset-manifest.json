@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sumit-portfolio/static/css/main.c825a9a1.chunk.css",
+    "main.js": "/sumit-portfolio/static/js/main.587abc5d.chunk.js",
+    "main.js.map": "/sumit-portfolio/static/js/main.587abc5d.chunk.js.map",
+    "runtime-main.js": "/sumit-portfolio/static/js/runtime-main.77592943.js",
+    "runtime-main.js.map": "/sumit-portfolio/static/js/runtime-main.77592943.js.map",
+    "static/css/2.d2ca2446.chunk.css": "/sumit-portfolio/static/css/2.d2ca2446.chunk.css",
+    "static/js/2.fd52966d.chunk.js": "/sumit-portfolio/static/js/2.fd52966d.chunk.js",
+    "static/js/2.fd52966d.chunk.js.map": "/sumit-portfolio/static/js/2.fd52966d.chunk.js.map",
+    "index.html": "/sumit-portfolio/index.html",
+    "precache-manifest.810a26ee58ad3d798b0237bd3ee73b1c.js": "/sumit-portfolio/precache-manifest.810a26ee58ad3d798b0237bd3ee73b1c.js",
+    "service-worker.js": "/sumit-portfolio/service-worker.js",
+    "static/css/2.d2ca2446.chunk.css.map": "/sumit-portfolio/static/css/2.d2ca2446.chunk.css.map",
+    "static/css/main.c825a9a1.chunk.css.map": "/sumit-portfolio/static/css/main.c825a9a1.chunk.css.map",
+    "static/media/android.jpeg": "/sumit-portfolio/static/media/android.39aae8b2.jpeg",
+    "static/media/dl.jpg": "/sumit-portfolio/static/media/dl.17281b46.jpg",
+    "static/media/front.jpeg": "/sumit-portfolio/static/media/front.5bdfb650.jpeg",
+    "static/media/java.jpg": "/sumit-portfolio/static/media/java.1ee5351d.jpg",
+    "static/media/ml.jpeg": "/sumit-portfolio/static/media/ml.e0b4d364.jpeg",
+    "static/media/profile.jpeg": "/sumit-portfolio/static/media/profile.13dbac35.jpeg",
+    "static/media/profile.jpg": "/sumit-portfolio/static/media/profile.ffda00ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77592943.js",
+    "static/css/2.d2ca2446.chunk.css",
+    "static/js/2.fd52966d.chunk.js",
+    "static/css/main.c825a9a1.chunk.css",
+    "static/js/main.587abc5d.chunk.js"
+  ]
+}
